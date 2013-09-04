@@ -35,5 +35,4 @@ There are several more namespaces for generating:
 * Telephone numbers
 * Text
 
-Take a look at the documentation generated with autodoc
-[here](http://chiefmouse.github.com/fakerUK)
+
