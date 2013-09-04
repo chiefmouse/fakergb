@@ -1,9 +1,9 @@
-(ns faker.internet
+(ns faker-UK.internet
   "Generate fake domains and emails."
   (:require
      [clojure.string :as string]
-     [faker.company :as co]
-     [faker.name :as na]))
+     [faker-UK.company :as co]
+     [faker-UK.name :as na]))
 
 (def ^{:private true} suffixes ["co.uk" "com" "us" "uk" "ca" "biz" "info" "name"])
 

@@ -1,4 +1,4 @@
-(ns faker.phone-number
+(ns faker-UK.phone-number
   "Generate fake phone numbers."
   (:require [clojure.string :as string]))
 

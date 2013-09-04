@@ -1,8 +1,8 @@
-(ns faker.lorem
+(ns faker-UK.lorem
   "Create fake textual data"
   (:use
      [clojure.string :only (join capitalize)]
-     faker.lorem-data))
+     faker-UK.lorem-data))
 
 (defn words
   "Lazy sequence of random latin words"

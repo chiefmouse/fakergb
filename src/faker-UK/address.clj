@@ -1,7 +1,7 @@
-(ns faker.address
+(ns faker-UK.address
   "Create fake address data."
-  (:use faker.address-data)
-  (:require [faker.name :as na]
+  (:use faker-UK.address-data)
+  (:require [faker-UK.name :as na]
             [clojure.string :as string]))
 
 
