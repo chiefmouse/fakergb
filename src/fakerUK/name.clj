@@ -1,8 +1,8 @@
-(ns faker-UK.name
+(ns fakerUK.name
   "Create fake data for person names"
   (:use
      [clojure.string :only [join]]
-     faker-UK.name-data))
+     fakerUK.name-data))
 
 (defn first-name
   "Create a fake person first name"

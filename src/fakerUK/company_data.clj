@@ -1,4 +1,4 @@
-(ns faker-UK.company-data)
+(ns fakerUK.company-data)
 
 (def suffixes ["Inc" "and Sons" "LLC" "Group"])
 

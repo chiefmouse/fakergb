@@ -1,6 +1,6 @@
-(ns faker-UK.core-test
-  (:use (faker-UK name lorem phone-number internet address))
-  (:require [faker-UK.company :as company])
+(ns fakerUK.core-test
+  (:use (fakerUK name lorem phone-number internet address))
+  (:require [fakerUK.company :as company])
   (:use
      clojure.test
      [clojure.string :only (split)]))
