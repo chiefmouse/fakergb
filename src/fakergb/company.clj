@@ -1,9 +1,9 @@
-(ns fakerUK.company
+(ns fakergb.company
   "Create fake company data"
   (:use
      [clojure.string :only (join)]
-     fakerUK.company-data)
-  (:require [fakerUK.name :as fkname]))
+     fakergb.company-data)
+  (:require [fakergb.name :as fkname]))
 
 (defn suffix
   "Return a random company suffix, like Inc or Group."
