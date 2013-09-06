@@ -7,7 +7,7 @@ It is useful when you want to generate fake but good-looking data, such as in
 test scenarios or staging servers.
 
 fakergb has data (specifically first and last person names, and person name 
-suffixes, more authentically British English.
+suffixes) more authentically "British English".
 
 This library is available via Clojars (and hence e.g. Leiningen).
 
